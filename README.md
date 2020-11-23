@@ -14,5 +14,4 @@ Akshay S(Leader) - RA1711003040080<br>
 Mridul Krishnan - RA1711003040066 <br>
 Muthukumaran - RA1711003040172<br> 
 Manikantan A - RA1711003040038<br>
-Subramanian R - RA1711003040010<br> 
-Shilpitha Prasad V - RA1711003040033
+
